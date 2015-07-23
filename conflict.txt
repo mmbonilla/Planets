@@ -1,3 +1,10 @@
+HEAD
 This is an exercise to practice resolution. 
 
 Here we go
+
+f77f46d619879cf45a8b951f6898d20b36686a8e
+
+This file has been merged
+
+
