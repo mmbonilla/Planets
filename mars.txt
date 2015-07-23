@@ -3,6 +3,11 @@ It use to have oceans like our marble-blue earth
 
 Martian Chronicles was inspirational for the early space program
 but it was quite sad that Bernedette Peters never made it.
- 
+
+
+I need to add a new line to this file.  
 
 --M Bonilla
+-- New Name1
+-- New Name2
+
